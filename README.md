@@ -4,12 +4,11 @@
 A smart resume filtering application that automatically **extracts resume text, matches it against a job description, and ranks candidates based on relevance** using NLP and cosine similarity.
 
 This tool is designed to streamline the hiring process by helping recruiters shortlist candidates quickly and objectively.
+## 🖥️ Demo Screenshot
 
----
-
-## 🚀 Live Application (if applicable)
-Add your deployed link here  
-Example: `https://resume-ranker.streamlit.app`
+<p align="center">
+  <img src="twitter_streaming_dashboard.png" width="900">
+</p>
 
 ## 🧠 Overview
 This project demonstrates how **AI + NLP can automate resume screening**.  
