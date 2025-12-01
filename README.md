@@ -7,7 +7,7 @@ This tool is designed to streamline the hiring process by helping recruiters sho
 ## 🖥️ Demo Screenshot
 
 <p align="center">
-  <img src="twitter_streaming_dashboard.png" width="900">
+  <img src="resume_ranker_interface.png" width="900">
 </p>
 
 ## 🧠 Overview
